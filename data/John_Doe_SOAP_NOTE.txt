@@ -1,0 +1,4 @@
+S: Severe tachycardia and hyperpyrexia.
+0: HR: 150 bpm, Temp: 42.0°C
+A: HIGH Risk. SuspectedHistory of Hyper-Tension.Last visit:3 months ago..
+P: Emergency Alert send to Dr.Kapoor

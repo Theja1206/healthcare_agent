@@ -1,0 +1,4 @@
+S: Severe fever and rapid heart rate.
+0: HR 145 bpm, Temp 42.52°C
+A: HIGH Risk. SuspectedPatient presents with severe tachycardia and hyperpyrexia. Medical history includes seasonal allergies and mild asthma..
+P: Emergency Alert send to Dr.Kapoor
